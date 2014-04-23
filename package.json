@@ -1,0 +1,16 @@
+{
+  "name": "nodewebkit-test",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Kyle Robinson Young <kyle@dontkry.com> (http://dontkry.com)",
+  "license": "MIT",
+  "dependencies": {
+    "zlib": "^1.0.5",
+    "tar": "^0.1.19",
+    "tape": "^2.12.3",
+    "rimraf": "^2.2.6"
+  }
+}
